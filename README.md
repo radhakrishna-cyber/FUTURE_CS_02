@@ -1,3 +1,4 @@
+# FUTURE_CS_02
 Phishing Email Detection & Awareness System
 
 This repository contains a Phishing Email Detection & Awareness System developed as part of the  
